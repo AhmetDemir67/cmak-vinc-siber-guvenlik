@@ -28,7 +28,11 @@ bir SWOT analizi. Çalışma tamamen **savunma / uyum (compliance)** odaklıdır
 | `CMAK_Lab2_IEC62443_Zone_Conduit.pdf` | **Lab 2** — IEC 62443 Zone / Conduit + güvenli uzak erişim kararı |
 | `CMAK_Lab3_Threat_Risk_Matrix.pdf` | **Lab 3** — Tehdit senaryoları + Risk Matrisi (L × S × E) |
 | `CMAK_Lab4_Secure_Remote_Access.pdf` | **Lab 4** — Secure Remote Access + functional safety köprüsü |
+| `CMAK_Lab5_SBOM_CVE_Patch.pdf` | **Lab 5** — SBOM / CVE / Patch karar akışı (Vulnerability Decision) |
+| `CMAK_Lab6_CRA_Incident_Simulation.pdf` | **Lab 6** — CRA Olay Müdahale Simülasyonu (24s / 72s / 14 gün) |
+| `CMAK_Lab7_AI_Safety_Challenge.pdf` | **Lab 7** — AI Safety Challenge (AI Fail-Safe Decision) |
 | `CMAK_SWOT_Analizi.pdf` | Siber güvenlik odaklı **SWOT** analizi |
+| `CMAK_SMART_Analizi.pdf` | SWOT bulgularını somut, ölçülebilir, tarihli hedeflere çeviren **SMART** analizi |
 
 > Laboratuvar föyleri, dersin orijinal föy şablonu **birebir korunarak** doldurulmuştur;
 > yalnızca örnek makine adı CMAK Gezer Köprülü Vinç olarak değiştirilmiş ve cevaplar
